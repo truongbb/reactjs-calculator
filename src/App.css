@@ -1,0 +1,49 @@
+.App {
+    text-align: center;
+    margin: 3%;
+    /*width: 60%;*/
+}
+
+.title {
+    color: darkolivegreen;
+}
+
+.title h1 {
+    font-size: 4em;
+}
+
+.calculator {
+    margin: 5% 20% 5% 20%;
+    border: 1px solid rgba(128, 128, 128, 0.49);
+    border-radius: 5px;
+}
+
+.screen-value {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgba(128, 128, 128, 0.49);
+    width: 50%;
+    text-align: right;
+    font-size: 2em;
+}
+
+.screen-value label {
+    padding-right: 2%;
+}
+
+.keyboard {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    border: 1px solid #c1c1c1 !important;
+    background-color: #e8e8e8 !important;
+}
+
+.row {
+    margin-bottom: 2%;
+}
